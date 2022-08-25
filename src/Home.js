@@ -10,7 +10,7 @@ const Home = () => {
       <div className="picture-container">
         <img
           className="happy-people"
-          src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/06/coloredited_emilybi_fashion-900x580.jpg"
+          src="https://t3.ftcdn.net/jpg/02/82/28/96/360_F_282289636_HdAsPhxkmI0U6rqRNPpp2Mr8ztj9u2D2.jpg"
         />
       </div>
       <section className="inventory">

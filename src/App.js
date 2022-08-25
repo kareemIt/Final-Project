@@ -12,7 +12,7 @@ export default function App() {
     <div className="homepage">
       <NavBar />
       <Switch>
-        <Route path="/Home" path="">
+        <Route path="/Home">
           <Home />
         </Route>
         <Route path="/Hoodies">
